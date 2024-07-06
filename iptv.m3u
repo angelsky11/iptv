@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="玛莎F1" tvg-name="玛莎F1" tvg-logo="https://www.thef1spectator.com/wp-content/uploads/2021/10/f1-tv-logo-300x157.jpg" group-title="玛莎F1",玛莎F1
 https://6721.liveplay.now.qq.com/live/6721_11f91b4ae604d9050e6a623076c6be26.m3u8
-#EXTINF:-1,tvg-id="玛莎五星体育" tvg-name="玛莎五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="玛莎五星体育",玛莎五星体育
+#EXTINF:-1,tvg-id="玛莎五星体育" tvg-name="玛莎五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="玛莎F1",玛莎五星体育
 https://6721.liveplay.now.qq.com/live/6721_c74de3126cbd66f5db58eafdd97ec1d1.m3u8
